@@ -21,7 +21,6 @@
   <ItemGroup>
     <ProjectReference Include="..\Application.Auctions\Application.Auctions.csproj" />
     <ProjectReference Include="..\Application.Inventory\Application.Inventory.csproj" />
-    <ProjectReference Include="..\Domain.Inventory\Domain.Inventory.csproj" />
   </ItemGroup>
 
   <ItemGroup>

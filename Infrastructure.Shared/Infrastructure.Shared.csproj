@@ -12,8 +12,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Application.Shared\Application.Shared.csproj" />
-    <ProjectReference Include="..\Domain.Auctions\Domain.Auctions.csproj" />
-    <ProjectReference Include="..\Domain.Inventory\Domain.Inventory.csproj" />
   </ItemGroup>
 
 </Project>

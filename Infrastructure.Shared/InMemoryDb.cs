@@ -1,10 +1,4 @@
-﻿using Domain.Auctions.Entities;
-using Domain.Auctions.Enums;
-using Domain.Inventory.Abstractions;
-using Domain.Inventory.Entities;
-using Domain.Inventory.Enums;
-using Microsoft.Extensions.DependencyInjection;
-using System.Collections.Generic;
+﻿using Microsoft.Extensions.DependencyInjection;
 
 namespace Infrastructure.Shared
 {
