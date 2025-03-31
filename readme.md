@@ -1,3 +1,6 @@
+![integration tests badge](https://github.com/diogosantosmendes/bds_coding_test/actions/workflows/integration_tests.yml/badge.svg)
+![unit tests badge](https://github.com/diogosantosmendes/bds_coding_test/actions/workflows/unit_tests.yml/badge.svg)
+
 ## Decisions and any assumptions 
 
 - Since WebUI was not a requirement I'm presenting a simple API that calls directly the Application layer, ignoring Authentication and Authorization. 
